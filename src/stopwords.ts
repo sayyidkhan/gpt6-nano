@@ -1,0 +1,3 @@
+export const STOPWORDS = new Set([
+  'a','an','and','the','to','of','in','on','for','with','as','by','is','are','was','were','be','been','being','it','that','this','these','those','at','from','or','but','if','then','so','than','into','about','over','under','between','across','we','you','i','they','he','she','them','his','her','their','our','us','your','my','mine','yours','ours','theirs','me','him','hers','its','not','no','yes','do','does','did','done','can','could','will','would','should','may','might','must','also','just','like','more','most','some','any','each','every','such','many','much','how','what','which','who','whom','when','where','why'
+]);
